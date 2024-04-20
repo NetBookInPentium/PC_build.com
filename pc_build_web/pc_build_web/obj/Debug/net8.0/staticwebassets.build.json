@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qCu5/TAxyeBgp041vvrYBDKYayPLOBCnQmzrLwkRHOE=",
+  "Source": "pc_build_web",
+  "BasePath": "_content/pc_build_web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
