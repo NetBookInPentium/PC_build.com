@@ -1,9 +1,8 @@
-
 .page {
     position: relative;
     display: flex;
     flex-direction: column;
-    color: white; /* Цвет всего*/
+    color: #ffffff; /* Цвет всего текста*/
 }
 
 main {

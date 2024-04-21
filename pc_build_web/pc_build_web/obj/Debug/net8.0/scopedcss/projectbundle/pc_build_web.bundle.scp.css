@@ -1,10 +1,9 @@
 /* _content/pc_build_web/Components/Layout/MainLayout.razor.rz.scp.css */
-
 .page[b-tuyyu0exem] {
     position: relative;
     display: flex;
     flex-direction: column;
-    color: white; /* ���� �����*/
+    color: #ffffff; /* ���� ����� ������*/
 }
 
 main[b-tuyyu0exem] {
