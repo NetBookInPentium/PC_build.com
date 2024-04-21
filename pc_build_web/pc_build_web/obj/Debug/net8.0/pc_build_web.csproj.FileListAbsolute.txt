@@ -24,3 +24,6 @@ C:\Users\alix2\OneDrive\Документы\GitHub\PC_build.com\pc_build_web\pc_b
 C:\Users\alix2\OneDrive\Документы\GitHub\PC_build.com\pc_build_web\pc_build_web\obj\Debug\net8.0\pc_build_web.pdb
 C:\Users\alix2\OneDrive\Документы\GitHub\PC_build.com\pc_build_web\pc_build_web\obj\Debug\net8.0\pc_build_web.genruntimeconfig.cache
 C:\Users\alix2\OneDrive\Документы\GitHub\PC_build.com\pc_build_web\pc_build_web\obj\Debug\net8.0\ref\pc_build_web.dll
+C:\Users\alix2\OneDrive\Документы\GitHub\PC_build.com\pc_build_web\pc_build_web\bin\Debug\net8.0\pc_build_web.staticwebassets.runtime.json
+C:\Users\alix2\OneDrive\Документы\GitHub\PC_build.com\pc_build_web\pc_build_web\obj\Debug\net8.0\pc_build_web.RazorAssemblyInfo.cache
+C:\Users\alix2\OneDrive\Документы\GitHub\PC_build.com\pc_build_web\pc_build_web\obj\Debug\net8.0\pc_build_web.RazorAssemblyInfo.cs
