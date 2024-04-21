@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "pc_build_web/1.0.0": {
+        "runtime": {
+          "pc_build_web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pc_build_web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

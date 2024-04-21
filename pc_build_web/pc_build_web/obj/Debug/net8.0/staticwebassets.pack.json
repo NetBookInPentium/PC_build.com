@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\pc_build_web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\pc_build_web.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.pc_build_web.props",
+      "PackagePath": "build\\pc_build_web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.pc_build_web.props",
+      "PackagePath": "buildMultiTargeting\\pc_build_web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.pc_build_web.props",
+      "PackagePath": "buildTransitive\\pc_build_web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.pc_build_web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

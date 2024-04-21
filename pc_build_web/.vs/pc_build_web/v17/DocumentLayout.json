@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Susny\\PC_build.com\\pc_build_web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0867F0EB-CFE3-43E8-8D24-F6F16B0EEEC6}|pc_build_web\\pc_build_web.csproj|d:\\susny\\pc_build.com\\pc_build_web\\pc_build_web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0867F0EB-CFE3-43E8-8D24-F6F16B0EEEC6}|pc_build_web\\pc_build_web.csproj|solutionrelative:pc_build_web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0867F0EB-CFE3-43E8-8D24-F6F16B0EEEC6}|pc_build_web\\pc_build_web.csproj|d:\\susny\\pc_build.com\\pc_build_web\\pc_build_web\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0867F0EB-CFE3-43E8-8D24-F6F16B0EEEC6}|pc_build_web\\pc_build_web.csproj|solutionrelative:pc_build_web\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "pc_build_web\\Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "pc_build_web\\Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-21T14:52:54.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "pc_build_web\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "pc_build_web\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T14:39:28.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
