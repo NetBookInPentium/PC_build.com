@@ -2,7 +2,7 @@
 
 <PageTitle>DIGITAL PC</PageTitle>
 
-<h1>PC assembly service</h1>
+<h1>Соберем компьютер вместе</h1>
 
 <style>
     .bg-image {
@@ -14,15 +14,51 @@
 </style>
 <body>
     <main>
-        <div class="bg-image">
+
+        <div class="bg-image"> <!-- Текст конфигуратора -->
             <div class="p-5 mb-4 bg-body-tertiary rounded-3">
                 <div class="container-fluid py-5">
-                    <h1 class="display-5 fw-bold">Custom build</h1>
-                    <p class="col-md-8 fs-4">Мы предоставляем большой выбор разных деталей и коплектующих для создания компьютера вашей мечты </p>
-                    <button class="btn btn-primary btn-lg" type="button">Example button</button>
+                    <h1 class="display-5 fw-bold">Конфигуратор</h1>
+                    <p class="col-md-7 fs-5">
+                        Подберите компьютер, который подойдет для любого направления! 
+                        Либо самостоятельно соберите комплектацию ПК и проверьте комплектующие на совместимость с помощью конфигуратора. 
+                    </p>
+                    <NavLink class="nav-link p-0" href="build_pc"> <!-- Ссылка на страничку -->
+                         <button class="btn btn-primary btn-lg" type="button">Конструктор пк</button>
+                    </NavLink>
                 </div>
             </div>
         </div>
+
+        <div class="bg-image"> <!-- Текст готовые сборки -->
+            <div class="p-5 mb-4 bg-body-tertiary rounded-3">
+                <div class="container-fluid py-5">
+                    <h1 class="display-5 fw-bold">Готовые сборки</h1>
+                    <p class="col-md-7 fs-5">
+                        Не можете решить что бы вы конкретно хотели видеть в своем ПК!
+                        Мы подобрали уже готовые сборки под разные цели, ознакомится с ними можно в мастерской.
+                    </p>
+                    <NavLink class="nav-link p-0" href="prepared_duilds"> <!-- Ссылка на страничку -->
+                         <button class="btn btn-primary btn-lg" type="button">Мастерская</button>
+                    </NavLink>
+                </div>
+            </div>
+        </div>
+
+        <div class="bg-image"> <!-- Текст открытый код -->
+            <div class="p-5 mb-4 bg-body-tertiary rounded-3">
+                <div class="container-fluid py-5">
+                    <h1 class="display-5 fw-bold">Открытый код</h1>
+                    <p class="col-md-7 fs-5">
+                        Площадка разрабатывается на чистом интузиазме. С открытым кодом для всех желающих.
+                    </p>
+                    <NavLink class="nav-link p-0" href="https://github.com/NetBookInPentium/PC_build.com"> <!-- Ссылка на страничку -->
+                        <button class="btn btn-primary btn-lg" type="button">GitHub проекта</button>
+                    </NavLink>
+                </div>
+            </div>
+        </div>
+
     </main>
 </body>
 

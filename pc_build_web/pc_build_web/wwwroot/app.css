@@ -3,17 +3,25 @@ html, body {
 }
 
 a, .btn-link {
-    color: #006bb7;
+    color: #66FCF1; /* Цвет ссылки*/
 }
 
 .btn-primary {
     color: #fff;
-    background-color: #1b6ec2;
-    border-color: #1861ac;
+    background-color: #1F2833; /* Цвета кнопок*/
+    border-color: #fff;
 }
+    .btn-primary:hover { /* При наведение на кнопки*/
+        background-color: #334152;
+        color: #66FCF1;
+        border-color: #1F2833;
+        transition: 0.4s;
+    }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    box-shadow: 0 0 0 0.25rem #1F2833; /* Цвет границы кнопки при нажатии*/
+    color: #66FCF1; /* Цвет текста в кнопки при нажатии*/
+    background-color: #1F2833;
 }
 
 .content {
@@ -22,6 +30,8 @@ a, .btn-link {
 
 h1:focus {
     outline: none;
+    background-color: aliceblue;
+
 }
 
 .valid.modified:not([type=checkbox]) {

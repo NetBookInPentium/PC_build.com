@@ -7,18 +7,6 @@
       "RelativeMoniker": "D:0:0:{0867F0EB-CFE3-43E8-8D24-F6F16B0EEEC6}|pc_build_web\\pc_build_web.csproj|solutionrelative:pc_build_web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0867F0EB-CFE3-43E8-8D24-F6F16B0EEEC6}|pc_build_web\\pc_build_web.csproj|d:\\susny\\pc_build.com\\pc_build_web\\pc_build_web\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0867F0EB-CFE3-43E8-8D24-F6F16B0EEEC6}|pc_build_web\\pc_build_web.csproj|solutionrelative:pc_build_web\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0867F0EB-CFE3-43E8-8D24-F6F16B0EEEC6}|pc_build_web\\pc_build_web.csproj|d:\\susny\\pc_build.com\\pc_build_web\\pc_build_web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0867F0EB-CFE3-43E8-8D24-F6F16B0EEEC6}|pc_build_web\\pc_build_web.csproj|solutionrelative:pc_build_web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0867F0EB-CFE3-43E8-8D24-F6F16B0EEEC6}|pc_build_web\\pc_build_web.csproj|d:\\susny\\pc_build.com\\pc_build_web\\pc_build_web\\components\\pages\\build_pc.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0867F0EB-CFE3-43E8-8D24-F6F16B0EEEC6}|pc_build_web\\pc_build_web.csproj|solutionrelative:pc_build_web\\components\\pages\\build_pc.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0867F0EB-CFE3-43E8-8D24-F6F16B0EEEC6}|pc_build_web\\pc_build_web.csproj|d:\\susny\\pc_build.com\\pc_build_web\\pc_build_web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0867F0EB-CFE3-43E8-8D24-F6F16B0EEEC6}|pc_build_web\\pc_build_web.csproj|solutionrelative:pc_build_web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -34,15 +22,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Build_pc.razor",
-              "DocumentMoniker": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\Components\\Pages\\Build_pc.razor",
-              "RelativeDocumentMoniker": "pc_build_web\\Components\\Pages\\Build_pc.razor",
-              "ToolTip": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\Components\\Pages\\Build_pc.razor",
-              "RelativeToolTip": "pc_build_web\\Components\\Pages\\Build_pc.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "pc_build_web\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "pc_build_web\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T19:38:39.135Z",
+              "WhenOpened": "2024-04-22T19:35:56.777Z",
               "EditorCaption": ""
             },
             {
@@ -53,48 +41,10 @@
               "RelativeDocumentMoniker": "pc_build_web\\Components\\Pages\\Home.razor",
               "ToolTip": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "pc_build_web\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAACOAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T19:34:24.573Z",
+              "WhenOpened": "2024-04-22T18:20:19.853Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "pc_build_web\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "pc_build_web\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T17:20:28.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainLayout.razor.css",
-              "DocumentMoniker": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\Components\\Layout\\MainLayout.razor.css",
-              "RelativeDocumentMoniker": "pc_build_web\\Components\\Layout\\MainLayout.razor.css",
-              "ToolTip": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\Components\\Layout\\MainLayout.razor.css",
-              "RelativeToolTip": "pc_build_web\\Components\\Layout\\MainLayout.razor.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-21T14:52:54.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "pc_build_web\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "D:\\Susny\\PC_build.com\\pc_build_web\\pc_build_web\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "pc_build_web\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T14:39:28.462Z"
             }
           ]
         }
